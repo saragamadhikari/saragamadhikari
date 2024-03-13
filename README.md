@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saragamadhikari&label=Profile%20views&color=0e75b6&style=flat" alt="saragamadhikari" /> </p>
 
-- 🔭 I was currently working on **Online MCQ Examination System-Php project**
+- 🔭 I was currently working on **Online MCQ Examination System-PHP project**
 
 - 🌱 I’m currently learning **Python**
 
